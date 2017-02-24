@@ -45,7 +45,7 @@ public class ReglaFalsa {
     }
 
     /**
-     * recibe como parámetros valores inicial y final del intervalo de búsqueda
+     * Recibe como parámetros valores inicial y final del intervalo de búsqueda
      * y el error aproximado máximo. La función calcula y despliega los valores
      * de la raíz, el valor de la función para esa raíz, el error aproximado
      * para la última iteración y el número de iteraciones requerida para
