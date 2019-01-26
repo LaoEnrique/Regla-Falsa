@@ -1,2 +1,2 @@
-# metodos
-Métodos Numéricos 
+# Regla falsa 
+Ejercicio de Métodos Numéricos 
